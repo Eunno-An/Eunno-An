@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunno-An&layout=compact&theme=dracula)](https://github.com/Eunno-An)
 
 
-
+- 🌱 I’m currently learning Algorithm, Programmers level3
 
 
 <!--
