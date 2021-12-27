@@ -7,7 +7,6 @@
 
 
 - 🌱 I’m currently learning Algorithm, Programmers level3
-- https://www.notion.so/Eunno-An-0d2b170040614ce38ef1bb1536a1b346
 
 <!--
 **Eunno-An/Eunno-An** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
